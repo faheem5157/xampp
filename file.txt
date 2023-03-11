@@ -1,6 +1,1 @@
-line1
-<<<<<<< HEAD
-line2 //child1
-=======
-line2 //child2
->>>>>>> main
+no files
