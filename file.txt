@@ -1,1 +1,2 @@
 line1 //local
+line2 //remote
