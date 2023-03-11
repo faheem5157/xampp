@@ -1,8 +1,1 @@
-line1 //main
-<<<<<<< HEAD
-line2 //child
-line3 //child
-line4 //main
-=======
-line2 //remote
->>>>>>> 8a3628f4095580d29e79702910d744331f513082
+line1 //local
