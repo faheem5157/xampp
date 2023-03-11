@@ -1,3 +1,7 @@
 line1 //local
 line2 //local
+<<<<<<< HEAD
 line3 //remote
+=======
+line3 //local
+>>>>>>> 2bd9956 (Added line3)
